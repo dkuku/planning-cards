@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/planning-cards/static/css/main.c6bb8aa7.chunk.css",
+    "main.js": "/planning-cards/static/js/main.5ae3fa7f.chunk.js",
+    "main.js.map": "/planning-cards/static/js/main.5ae3fa7f.chunk.js.map",
+    "runtime-main.js": "/planning-cards/static/js/runtime-main.f3d37f2e.js",
+    "runtime-main.js.map": "/planning-cards/static/js/runtime-main.f3d37f2e.js.map",
+    "static/js/2.1134e2f4.chunk.js": "/planning-cards/static/js/2.1134e2f4.chunk.js",
+    "static/js/2.1134e2f4.chunk.js.map": "/planning-cards/static/js/2.1134e2f4.chunk.js.map",
+    "index.html": "/planning-cards/index.html",
+    "precache-manifest.4405390d7d898cd6d2461788ca5c38c5.js": "/planning-cards/precache-manifest.4405390d7d898cd6d2461788ca5c38c5.js",
+    "service-worker.js": "/planning-cards/service-worker.js",
+    "static/css/main.c6bb8aa7.chunk.css.map": "/planning-cards/static/css/main.c6bb8aa7.chunk.css.map",
+    "static/js/2.1134e2f4.chunk.js.LICENSE.txt": "/planning-cards/static/js/2.1134e2f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3d37f2e.js",
+    "static/js/2.1134e2f4.chunk.js",
+    "static/css/main.c6bb8aa7.chunk.css",
+    "static/js/main.5ae3fa7f.chunk.js"
+  ]
+}
